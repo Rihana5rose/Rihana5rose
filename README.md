@@ -7,7 +7,7 @@ I'm passionate about building quality software and leveraging data to drive insi
 ## 🌟 What I bring to the table:
 - Expertise in **Manual Testing** to ensure robust and reliable software
 - Proficiency in **Data Analysis** using tools like Excel, SQL, and Python  
-- Continuous learning in **Cloud Computing**, **Cybersecurity**, and **Artificial Intelligence**
+- Continuous learning in **Cloud Computing**, **IPA/RPA**, and **Artificial Intelligence**
 
 ## 💡 Open to opportunities:
 I’m actively seeking roles in **Software Testing**, **Data Analytics**, and am always open to **tech collaborations**. Check out my repositories and feel free to reach out if you'd like to connect!
